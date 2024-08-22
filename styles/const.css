@@ -1,0 +1,19 @@
+:root {
+  /* colors */
+  --color-1: #e9f6ff;
+  --color-2: #edffe9;
+  /* font-family */
+  --font-family: 'Geist Mono';
+  /* font-weight */
+  --font-weight-regular: 400;
+  --font-weight-medium:  500;
+  --font-weight-bold:    700;
+  /* font-size */
+  --font-size-sm:  16px;
+  --font-size-md:  20px;
+  --font-size-lg:  24px;
+  --font-size-xl:  28px;
+  --font-size-2xl: 32px;
+  --font-size-3xl: 36px;
+  --font-size-4xl: 40px;
+}
