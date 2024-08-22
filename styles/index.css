@@ -1,0 +1,16 @@
+.section-1 {
+  min-height: 100svh;
+  background-color: #e9f6ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  text-align: center;
+}
+
+.title {
+  text-transform: uppercase;
+  font-family: 'Geist Mono';
+  font-weight: 900;
+  font-size: 40px;
+}
