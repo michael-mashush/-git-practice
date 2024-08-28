@@ -21,6 +21,11 @@
   text-decoration: line-through;
 }
 
+.section-4 {
+  background-color: var(--color-4);
+  text-decoration: wavy;
+}
+
 .title {
   text-transform: uppercase;
   font-family: var(--font-family);
