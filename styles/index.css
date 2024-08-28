@@ -16,6 +16,11 @@
   text-decoration: underline;
 }
 
+.section-3 {
+  background-color: var(--color-3);
+  text-decoration: line-through;
+}
+
 .title {
   text-transform: uppercase;
   font-family: var(--font-family);
