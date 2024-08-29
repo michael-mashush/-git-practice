@@ -7,22 +7,37 @@
   align-items: center;
 }
 
+.section-content {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
 .section-1 {
   background-color: var(--color-1);
 }
 
 .section-2 {
   background-color: var(--color-2);
+}
+
+.section-2 .title {
   text-decoration: underline;
 }
 
 .section-3 {
   background-color: var(--color-3);
+}
+
+.section-3 .title {
   text-decoration: line-through;
 }
 
 .section-4 {
   background-color: var(--color-4);
+}
+
+.section-4 .title {
   text-decoration: wavy;
 }
 
@@ -31,4 +46,10 @@
   font-family: var(--font-family);
   font-weight: var(--font-weight-bold);
   font-size: var(--font-size-4xl);
+}
+
+.text {
+  font-family: var(--font-family);
+  font-weight: var(--font-weight-medium);
+  font-size: var(--font-size-sm);
 }
